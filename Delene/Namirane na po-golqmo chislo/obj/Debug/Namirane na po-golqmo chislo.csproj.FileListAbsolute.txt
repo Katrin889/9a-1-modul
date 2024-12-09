@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\bin\Debug\Namirane na po-golqmo chislo.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\bin\Debug\Namirane na po-golqmo chislo.exe
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\bin\Debug\Namirane na po-golqmo chislo.pdb
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\obj\Debug\Namirane na po-golqmo chislo.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\obj\Debug\Namirane na po-golqmo chislo.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\obj\Debug\Namirane na po-golqmo chislo.exe
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Namirane na po-golqmo chislo\obj\Debug\Namirane na po-golqmo chislo.pdb

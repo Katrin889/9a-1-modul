@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\bin\Debug\Delene.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\bin\Debug\Delene.exe
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\bin\Debug\Delene.pdb
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\obj\Debug\Delene.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\obj\Debug\Delene.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\obj\Debug\Delene.exe
+C:\Users\1409-11\Desktop\9a Katrin\Delene\Delene\obj\Debug\Delene.pdb

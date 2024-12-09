@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\bin\Debug\chisla.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\bin\Debug\chisla.exe
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\bin\Debug\chisla.pdb
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\obj\Debug\chisla.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\obj\Debug\chisla.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\obj\Debug\chisla.exe
+C:\Users\1409-11\Desktop\9a Katrin\chisla\chisla\obj\Debug\chisla.pdb
