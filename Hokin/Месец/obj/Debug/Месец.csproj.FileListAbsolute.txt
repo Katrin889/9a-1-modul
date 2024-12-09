@@ -1,0 +1,7 @@
+C:\Users\1409-11\source\repos\Hokin\Месец\bin\Debug\Месец.exe.config
+C:\Users\1409-11\source\repos\Hokin\Месец\bin\Debug\Месец.exe
+C:\Users\1409-11\source\repos\Hokin\Месец\bin\Debug\Месец.pdb
+C:\Users\1409-11\source\repos\Hokin\Месец\obj\Debug\Месец.csproj.AssemblyReference.cache
+C:\Users\1409-11\source\repos\Hokin\Месец\obj\Debug\Месец.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\source\repos\Hokin\Месец\obj\Debug\Месец.exe
+C:\Users\1409-11\source\repos\Hokin\Месец\obj\Debug\Месец.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hokin", "Hokin\Hokin.csproj", "{0067F3E4-015C-4983-8B3B-D74E78533A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klukarka", "Klukarka\Klukarka.csproj", "{64AC07D3-B075-446B-A066-57DFE6A64DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Месец", "Месец\Месец.csproj", "{FCB47F13-E8B9-4CA9-893B-D8B8C4F90084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0067F3E4-015C-4983-8B3B-D74E78533A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0067F3E4-015C-4983-8B3B-D74E78533A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0067F3E4-015C-4983-8B3B-D74E78533A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0067F3E4-015C-4983-8B3B-D74E78533A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AC07D3-B075-446B-A066-57DFE6A64DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AC07D3-B075-446B-A066-57DFE6A64DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AC07D3-B075-446B-A066-57DFE6A64DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AC07D3-B075-446B-A066-57DFE6A64DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB47F13-E8B9-4CA9-893B-D8B8C4F90084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB47F13-E8B9-4CA9-893B-D8B8C4F90084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB47F13-E8B9-4CA9-893B-D8B8C4F90084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB47F13-E8B9-4CA9-893B-D8B8C4F90084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76DA62E2-6ABE-41C5-B27F-DCE67A9C6668}
+	EndGlobalSection
+EndGlobal

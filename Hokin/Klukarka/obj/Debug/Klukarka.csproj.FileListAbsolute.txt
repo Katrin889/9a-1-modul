@@ -1,0 +1,7 @@
+C:\Users\1409-11\source\repos\Hokin\Klukarka\bin\Debug\Klukarka.exe.config
+C:\Users\1409-11\source\repos\Hokin\Klukarka\bin\Debug\Klukarka.exe
+C:\Users\1409-11\source\repos\Hokin\Klukarka\bin\Debug\Klukarka.pdb
+C:\Users\1409-11\source\repos\Hokin\Klukarka\obj\Debug\Klukarka.csproj.AssemblyReference.cache
+C:\Users\1409-11\source\repos\Hokin\Klukarka\obj\Debug\Klukarka.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\source\repos\Hokin\Klukarka\obj\Debug\Klukarka.exe
+C:\Users\1409-11\source\repos\Hokin\Klukarka\obj\Debug\Klukarka.pdb
